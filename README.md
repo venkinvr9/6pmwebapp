@@ -12,3 +12,7 @@
  cd 6pmwebapp
  mvn package
 ```
+
+##Learning Jenkins now
+-- completed multibranch and multi task classes.
+Two days leave 06,07th Dec,2019. 
